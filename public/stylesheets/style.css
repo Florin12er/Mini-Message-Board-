@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+form {
+  display: grid;
+  gap: 5px;
+}
+input {
+  width: 300px;
+}
+input[type="date"] {
+  width: 110px;
+}
+button {
+  width: 117px;
+  padding: 5px;
+}
